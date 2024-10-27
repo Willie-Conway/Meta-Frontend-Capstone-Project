@@ -1,6 +1,6 @@
 # Little Lemon Reservation System
 
-## 📚 Table of Contents
+## 📖 Table of Contents
 - [Project Overview](#project-overview)
 - [Project Scenario](#project-scenario)
 - [Screens and Features](#screens-and-features)
@@ -16,7 +16,7 @@
 - [Acknowledgements](#acknowledgements)
 
 ## Project Overview📁
-Welcome to the **💻Little Lemon Reservation System**! 🎉 This project is a modern, responsive web application designed to enhance the table reservation experience for the 🍋Little Lemon restaurant. The goal is to improve user interaction and satisfaction by addressing the negative feedback regarding the previous reservation functionality.
+Welcome to the **💻Little Lemon Reservation System**! 🎉 This project is a modern, responsive web application designed to enhance the table reservation experience for the 🍋Little Lemon restaurant. The goal is to improve user interaction and satisfaction by addressing the negative feedback regarding the previous 📰reservation functionality.
 
 ## Project Scenario📁
 The owners of 🍋Little Lemon received feedback that users found the table reservation process confusing and unsatisfactory. As a `front-end developer`, your task was to create a user-friendly interface that simplifies the reservation process while maintaining the restaurant's brand identity.
@@ -39,7 +39,7 @@ This page captures essential customer details:
   - 👤 `First` and `last` name
   - 📞 `Contact information` (phone or email)
 - Required fields are clearly indicated.
-- A **"`Submit`"** button to confirm the reservation.
+- A **"`Submit`"** button to confirm the 📰reservation.
 - Optional confirmation selection.
 
 ### SCREEN 3: Reservation Profile Page

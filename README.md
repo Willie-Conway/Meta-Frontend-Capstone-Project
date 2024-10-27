@@ -79,19 +79,19 @@ To run this project locally, follow these steps:
    git clone https://github.com/Willie-Conway/Meta-Frontend-Capstone-Project.git
    ```
 
- 2.  **Navigate to the project directory:**
-    ```bash
+2. **Navigate to the project directory:**
+  ```bash
     cd little-lemon
-    ```
- 3.  **Install dependencies:**
-    ```bash
+  ```
+3.  **Install dependencies:**
+  ```bash
     npm install  # If using Node.js
-    ```
- 4.  **Start the application:**
-    ```bash
+  ```
+4.  **Start the application:**
+  ```bash
     npm start  # If using Node.js
-    ```
- 5.  **Open your browser and go to `http://localhost:3000` (or the port specified in your project).**
+  ```
+5.  **Open your browser and go to `http://localhost:3000` (or the port specified in your project).**
 
 ## 👨🏿‍💻Usage
 - Navigate through the application to make a reservation.

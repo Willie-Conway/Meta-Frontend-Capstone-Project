@@ -21,7 +21,7 @@
 - [Acknowledgements](#acknowledgements)
 
 ## Project Overview📁
-Welcome to the **💻Little Lemon Reservation System**! 🎉 This project is a modern, responsive web application designed to enhance the table reservation experience for the 🍋Little Lemon restaurant. The goal is to improve user interaction and satisfaction by addressing the negative feedback regarding the previous 📰reservation functionality.
+Welcome to the **🍽️Little Lemon Reservation System**! 🎉 This project is a modern, responsive web application designed to enhance the table reservation experience for the 🍋Little Lemon restaurant. The goal is to improve user interaction and satisfaction by addressing the negative feedback regarding the previous 📰reservation functionality.
 
 ## Project Scenario📁
 The owners of 🍋Little Lemon received feedback that users found the table reservation process confusing and unsatisfactory. As a `front-end developer`, your task was to create a user-friendly interface that simplifies the reservation process while maintaining the restaurant's brand identity.
@@ -100,12 +100,12 @@ To run this project locally, follow these steps:
   
 ## Conclusion
 
-Congratulations on completing the Little Lemon Reservation System! This project showcases your skills in building a modern front-end application, incorporating user feedback, and adhering to design principles.
+Congratulations on completing the 🍽️Little Lemon Reservation System! This project showcases your skills in building a modern `front-end` application, incorporating user feedback, and adhering to design principles.
 
 ## License
 This project is licensed under the [MIT License](LICENSE). See the LICENSE file for details.
 
 
 ## Acknowledgements
-Thanks to the Meta team for the guidance throughout this capstone project.
-Special thanks to Little Lemon for providing the project scenario.
+🙏Thanks to the Meta team for the guidance throughout this capstone project.
+Special thanks to 🍋Little Lemon for providing the project scenario.

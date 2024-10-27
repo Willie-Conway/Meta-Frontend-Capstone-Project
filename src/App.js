@@ -1,26 +1,21 @@
+// App.js
 import React from 'react';
 import './App.css';
 import Nav from './components/Nav';
 import Main from './components/Main';
 import Menu from './components/Menu';
-import Header from './components/Header';
 import Footer from './components/Footer';
 import BookingForm from './components/BookingForm';
 import { BrowserRouter as Router } from 'react-router-dom';
 
-
-
 function App() {
   return (
-    <>
-      <Nav/>
     <Router>
+      <Nav />
       <Main />
+      <Menu />
+      <Footer />
     </Router>
-      <Header/>
-      <Menu/>
-      <Footer/>
-    </>
   );
 }
 

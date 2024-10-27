@@ -117,7 +117,7 @@ To run this project locally, follow these steps:
 
 Congratulations on completing the 🍽️Little Lemon Reservation System! This project showcases your skills in building a modern `front-end` application, incorporating user feedback, and adhering to design principles.
 
-## License
+## License📄
 This project is licensed under the [MIT License](LICENSE). See the LICENSE file for details.
 
 

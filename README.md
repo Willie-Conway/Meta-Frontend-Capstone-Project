@@ -26,7 +26,8 @@ Welcome to the **🍽️Little Lemon Reservation System**! 🎉 This project is 
 <p float="left">
     <img src="https://github.com/Willie-Conway/Meta-Frontend-Capstone-Project/blob/main/Images/localhost_3000_home%20(3).png" width="300" />
     <img src="https://github.com/Willie-Conway/Meta-Frontend-Capstone-Project/blob/main/Images/localhost_3000_home%20(2).png" width="300" />
-     <img src="https://github.com/Willie-Conway/Meta-Frontend-Capstone-Project/blob/main/Images/localhost_3000_home%20(1).png" width="300" />
+    <img src="https://github.com/Willie-Conway/Meta-Frontend-Capstone-Project/blob/main/Images/localhost_3000_home%20(1).png" width="300" />
+    <img src="https://github.com/Willie-Conway/Meta-Frontend-Capstone-Project/blob/main/Images/localhost_3000_booking.png" width="300" />
 </p>
 
 ## Project Scenario📁

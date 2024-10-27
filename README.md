@@ -29,6 +29,8 @@ The owners of 🍋Little Lemon received feedback that users found the table rese
 ## Screens and Features
 
 ### SCREEN 1: Home Screen
+
+![Home Screen](https://github.com/Willie-Conway/Meta-Frontend-Capstone-Project/blob/main/Images/localhost_3000_booking.png)  
 This screen is the starting point for users to make a reservation. It includes:
 - Input fields for:
   - 📅 `Date`
@@ -39,6 +41,8 @@ This screen is the starting point for users to make a reservation. It includes:
 - Consistent branding with the **🍋Little Lemon restaurant** style guide.
 
 ### SCREEN 2: Reservation Page
+
+![Reservation Page](https://github.com/Willie-Conway/Meta-Frontend-Capstone-Project/blob/main/Images/localhost_3000_booking%20(1).png)  
 This page captures essential customer details:
 - Input fields for:
   - 👤 `First` and `last` name
@@ -48,9 +52,13 @@ This page captures essential customer details:
 - Optional confirmation selection.
 
 ### SCREEN 3: Reservation Profile Page
+
+![Reservation Profile page](https://github.com/Willie-Conway/Meta-Frontend-Capstone-Project/blob/main/Images/localhost_3000_booking%20(4).png)  
 If the user misses any required fields, relevant warnings ⚠️ are displayed to guide them in completing the form.
 
 ### SCREEN 4: Confirmation Message
+
+![Confirmation Message](https://github.com/Willie-Conway/Meta-Frontend-Capstone-Project/blob/main/Images/localhost_3000_booking%20(2).png)  
 Once the reservation form is successfully submitted, users receive a confirmation message 🎊 that their reservation has been recorded.
 
 ## ⚙️Tech Stack

@@ -1,5 +1,10 @@
 # Little Lemon Reservation System
 
+<p float="left">
+    <img src="https://tinypic.host/images/2024/10/27/meta-Front-End-Developer.png" width="300" />
+    <img src="https://github.com/Willie-Conway/Meta-Database-Capstone-Project/blob/main/Images/Little%20Lemon%20Logo.png" width="300" />
+</p>
+
 ## 📖 Table of Contents
 - [Project Overview](#project-overview)
 - [Project Scenario](#project-scenario)

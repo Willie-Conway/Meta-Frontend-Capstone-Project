@@ -42,7 +42,7 @@ This screen is the starting point for users to make a reservation. It includes:
 - Input fields for:
   - 📅 `Date`
   - ⏰ `Time`
-  - 🍽️ `Number of diners`
+  - 🍽️ `Number of guests`
   - 🎉 `Occasion`
 - A **"`Reserve a Table`"** button that links to the reservation page.
 - Consistent branding with the **🍋Little Lemon restaurant** style guide.

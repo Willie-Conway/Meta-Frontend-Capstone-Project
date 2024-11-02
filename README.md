@@ -122,5 +122,5 @@ This project is licensed under the [MIT License](LICENSE). See the LICENSE file 
 
 
 ## Acknowledgements
-🙏Thanks to the Meta team for the guidance throughout this capstone project.
+🙏🏿Thanks to the Meta team for the guidance throughout this capstone project.
 Special thanks to 🍋Little Lemon for providing the project scenario.

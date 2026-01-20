@@ -724,7 +724,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ⭐ **This project demonstrates comprehensive frontend development skills using React and modern web technologies. The reservation system provides a delightful user experience while maintaining high performance and accessibility standards.** ⭐
 
 ---
-**Connect with the Developer:**  
+**Connect with the Developer:** 
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Willie-Conway)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/willie-conway)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://willieconway.dev)

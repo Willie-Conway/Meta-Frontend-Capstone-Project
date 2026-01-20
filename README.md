@@ -2,7 +2,7 @@
 
 <p float="left">
     <img src="https://images.credly.com/size/340x340/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png" width="300" />
-    <img src="https://github.com/Willie-Conway/Meta-Frontend-Capstone-Project/blob/main/public/logo512.png" width="300" />
+    <img src="https://github.com/Willie-Conway/Meta-Frontend-Capstone-Project/blob/a63cb554abd5dc15cb5d530282382f9ac997ab1d/Images/Little%20Lemon.jpg" width="300" />
 </p>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
